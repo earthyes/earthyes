@@ -3,8 +3,7 @@
 
 Welcome to my Github page!  I am currently Learning Computer Vision and Robotics! I trust I will be a Great Engineer in the world~
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+<br>
 
 - 🔭 I'm currently interning at a company that researches smart cities and transportation
 - 🌱 I’m currently learning Computer Vision to prepare to complete my master's thesis
