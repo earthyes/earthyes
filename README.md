@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 I'm Earthyes ✨
+# Earthyes Github Profile
 
-<!--
-**earthyes/earthyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github page!  I am currently Learning Computer Vision and Robotics! I trust I will be a Great Engineer in the world~
 
-Here are some ideas to get you started:
+Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
+AngularJS-powered HTML5 Markdown editor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm currently interning at a company that researches smart cities and transportation
+- 🌱 I’m currently learning Computer Vision to prepare to complete my master's thesis
+- 😄 I'm looking forward to creating interesting things in the future
 -->
+![Earthyes's GitHub stats](https://github-readme-stats.vercel.app/api?username=earthyes&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earthyes&layout=compact)](https://github.com/earthyes/github-readme-stats)
