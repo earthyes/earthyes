@@ -10,5 +10,11 @@ AngularJS-powered HTML5 Markdown editor.
 - 🌱 I’m currently learning Computer Vision to prepare to complete my master's thesis
 - 😄 I'm looking forward to creating interesting things in the future
 -->
+
+  
+<br />
 ![Earthyes's GitHub stats](https://github-readme-stats.vercel.app/api?username=earthyes&show_icons=true&theme=radical)
+
+<br />
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earthyes&layout=compact)](https://github.com/earthyes/github-readme-stats)
